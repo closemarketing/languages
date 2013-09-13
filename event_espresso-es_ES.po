@@ -2,15 +2,15 @@
 # This file is distributed under the same license as the Event Espresso package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-03-26 10:21-0700\n"
+"PO-Revision-Date: 2013-09-14 01:21+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.5.7\n"
 "Project-Id-Version: Event Espresso\n"
 "POT-Creation-Date: \n"
-"Last-Translator: Chris Reynolds <chris@jazzsequence.com>\n"
+"Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: Darío Hereñú, David Pérez <support@eventespresso.com>\n"
 "Language: es_ES\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -966,63 +966,63 @@ msgstr ""
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:33
 msgid "Nombre"
-msgstr ""
+msgstr "Nombre"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:37
 msgid "Apellido"
-msgstr ""
+msgstr "Apellido"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:41
 msgid "Número de Identificación"
-msgstr ""
+msgstr "Número de Identificación"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:43
 msgid "Venezolano"
-msgstr ""
+msgstr "Venezolano"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:44
 msgid "Juridico"
-msgstr ""
+msgstr "Juridico"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:45
 msgid "Extranjero"
-msgstr ""
+msgstr "Extranjero"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:46
 msgid "Gubernamental"
-msgstr ""
+msgstr "Gubernamental"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:47
 msgid "Pasaporte"
-msgstr ""
+msgstr "Pasaporte"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:51
 msgid "Cédula o Pasaporte"
-msgstr ""
+msgstr "Cédula o Pasaporte"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:57
 msgid "Información de la Tarjeta de Crédito"
-msgstr ""
+msgstr "Información de la Tarjeta de Crédito"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:59
 msgid "Número de la Tarjeta"
-msgstr ""
+msgstr "Número de la Tarjeta"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:78
 msgid "Fecha de Caducidad"
-msgstr ""
+msgstr "Fecha de Caducidad"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:83
 msgid "Código CCV"
-msgstr ""
+msgstr "Código CCV"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:92
 msgid "Completar Compra"
-msgstr ""
+msgstr "Completar Compra"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/payment.php:98
 msgid "Escoja otra opción de pago"
-msgstr ""
+msgstr "Escoja otra opción de pago"
 
 #: ../../../plugins/event-espresso.3.1/gateways/megasoft/return.php:52
 msgid "There was no response from MegaSoft"
@@ -1082,7 +1082,7 @@ msgstr ""
 
 #: ../../../plugins/event-espresso.3.1/gateways/moneris_hpp/settings.php:137
 msgid "Please Note:"
-msgstr ""
+msgstr "Ten en cuenta:"
 
 #: ../../../plugins/event-espresso.3.1/gateways/moneris_hpp/settings.php:138
 msgid ""
@@ -1382,28 +1382,28 @@ msgstr ""
 
 #: ../../../plugins/espresso-event-manager/templates/fem_form_output.php:175
 msgid "Address Line 2"
-msgstr ""
+msgstr "Dirección Linea 2"
 
 #: ../../../plugins/espresso-event-manager/templates/fem_form_output.php:212
 msgid "Submit Event"
-msgstr ""
+msgstr "Enviar Evento"
 
 #: ../../../plugins/espresso-members/member_functions.php:720
 #: ../../../plugins/espresso-event-manager/templates/fem_form_output.php:193
 msgid "Postal Code"
-msgstr ""
+msgstr "Código Postal"
 
 #: ../../../plugins/espresso-members/member_functions.php:701
 msgid "Contact Info"
-msgstr ""
+msgstr "Info de Contacto"
 
 #: ../../../plugins/espresso-members/member_functions.php:695
 msgid "E-mail *"
-msgstr ""
+msgstr "Email *"
 
 #: ../../../plugins/espresso-members/member_functions.php:680
 msgid "Your profile has been updated"
-msgstr ""
+msgstr "Tu Perfil ha sido actualizado"
 
 #: ../../../plugins/espresso-members/member_functions.php:673
 msgid "You must be logged in to edit your profile."
@@ -1420,7 +1420,7 @@ msgstr ""
 
 #: ../../../plugins/espresso-members/my_events_page.php:41
 msgid "Ticket Type"
-msgstr ""
+msgstr "Tipo de Ticket"
 
 #: ../../../plugins/event-espresso.3.1/gateways/firstdata_e4/settings.php:131
 msgid "Account Uses FirstData E4.com's Demo Server"
@@ -1520,11 +1520,11 @@ msgstr ""
 
 #: ../../../plugins/event-espresso.3.1/includes/espresso-admin-status.php:169
 msgid "Cancel Return Page"
-msgstr ""
+msgstr "Página de Retorno al Cancelar"
 
 #: ../../../plugins/event-espresso.3.1/includes/espresso-admin-status.php:189
 msgid "Page not set"
-msgstr ""
+msgstr "Página no configurada"
 
 #: ../../../plugins/event-espresso.3.1/includes/espresso-admin-status.php:199
 msgid "Page does not contain the shortcode: %s"
@@ -1536,11 +1536,11 @@ msgstr ""
 
 #: ../../../plugins/event-espresso.3.1/includes/espresso-admin-status.php:225
 msgid "PHP Version"
-msgstr ""
+msgstr "Versión PHP"
 
 #: ../../../plugins/event-espresso.3.1/includes/espresso-admin-status.php:231
 msgid "Server Software"
-msgstr ""
+msgstr "Software del Servidor"
 
 #: ../../../plugins/event-espresso.3.1/includes/espresso-admin-status.php:237
 msgid "WP Max Upload Size"
@@ -1655,7 +1655,7 @@ msgstr ""
 
 #: ../../../plugins/event-espresso.3.1/includes/admin-files/form-builder/questions/insert_question.php:44
 msgid "has been successfully added."
-msgstr ""
+msgstr "ha sido añadida satisfactoriamente."
 
 #: ../../../plugins/event-espresso.3.1/includes/admin-files/form-builder/questions/insert_question.php:46
 msgid "An error occured. The question could not be saved to the database."
@@ -1701,7 +1701,7 @@ msgstr ""
 
 #: ../../../plugins/event-espresso.3.1/includes/admin-files/template_settings/template_files.php:38
 msgid "Rename Templates Directory"
-msgstr ""
+msgstr "Renombrar Directorio Plantillas"
 
 #: ../../../plugins/event-espresso.3.1/includes/admin-files/template_settings/template_files.php:41
 msgid ""
@@ -1735,19 +1735,19 @@ msgstr ""
 #: ../../../plugins/event-espresso.3.1/includes/admin-reports/event_list_attendees.php:234
 #: ../../../plugins/event-espresso.3.1/includes/event-management/event_list.php:251
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: ../../../plugins/event-espresso.3.1/includes/admin-reports/event_list_attendees.php:234
 #: ../../../plugins/event-espresso.3.1/includes/admin-reports/event_list_attendees.php:243
 #: ../../../plugins/event-espresso.3.1/includes/event-management/event_list.php:251
 #: ../../../plugins/event-espresso.3.1/includes/event-management/event_list.php:260
 msgid "rows"
-msgstr ""
+msgstr "filas"
 
 #: ../../../plugins/event-espresso.3.1/includes/admin-reports/event_list_attendees.php:243
 #: ../../../plugins/event-espresso.3.1/includes/event-management/event_list.php:260
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #: ../../../plugins/event-espresso.3.1/includes/form-builder/groups/edit_group.php:51
 msgid "Attention: This is a \"System Group\", some settings may be disabled."
@@ -1777,7 +1777,7 @@ msgstr ""
 
 #: ../../../plugins/event-espresso.3.1/includes/functions/ical.php:76
 msgid "iCal Import"
-msgstr ""
+msgstr "Importación iCal"
 
 #: ../../../plugins/event-espresso.3.1/includes/process-registration/add_attendees_to_db.php:822
 msgid ""
